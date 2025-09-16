@@ -1,8 +1,10 @@
-# 💫 About Me:
-Cybersecurity enthusiast
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wiredvus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiredvus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-## 🌐 Socials:
 <div align="left">
   <a href="https://www.youtube.com/@ЗЗЗ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -15,14 +17,12 @@ Cybersecurity enthusiast
   </a>
 </div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wiredvus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=wiredvus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wiredvus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=wiredvus&icon=0&color=0)](https://visitcount.itsvg.in)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wiredvus/wiredvus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wiredvus/wiredvus/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wiredvus/wiredvus/output/pacman-contribution-graph.svg">
+</picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
